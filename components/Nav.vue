@@ -4,28 +4,28 @@
       <li>
         <a href="#">
           <svg xmlns="http://www.w3.org/2000/svg">
-            <text x="50" y="50">The Onboarder</text>
+            <text x="50" y="50">The Invisible</text>
           </svg>
         </a>
       </li>
       <li>
         <a href="#">
           <svg xmlns="http://www.w3.org/2000/svg">
-            <text text-anchor="end" x="90%" y="0">The Wounded</text>
+            <text text-anchor="end" x="90%" y="0">The Unicorn</text>
           </svg>
         </a>
       </li>
       <li>
         <a href="#">
           <svg xmlns="http://www.w3.org/2000/svg">
-            <text x="40%" y="60%">The Driven</text>
+            <text x="40%" y="60%">The Observer</text>
           </svg>
         </a>
       </li>
       <li>
         <a href="#">
           <svg xmlns="http://www.w3.org/2000/svg">
-            <text text-anchor="end" x="90%" y="80%">The Listener</text>
+            <text text-anchor="end" x="90%" y="80%">The Prodigy</text>
           </svg>
         </a>
       </li>
@@ -63,7 +63,7 @@ a {
   mix-blend-mode: hue;
   font-family: 'Lovers Quarrel', cursive;
   text-transform: lowercase;
-  font-size: 4em;
+  font-size: 3em;
 }
 a:hover {
   background-color: transparent;

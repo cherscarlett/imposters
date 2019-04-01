@@ -22,6 +22,7 @@ h1 {
   margin: 0;
   text-align: center;
   font-size: 2.5em;
+  padding: 1em 1em 0 1em;
 }
 span {
   font-family: 'Lovers Quarrel', cursive;

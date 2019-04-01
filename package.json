@@ -5,16 +5,20 @@
   "author": "Cher Scarlett",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "preinstall": "node preinstall.js",
+    "dev": "nodemon --watch api --exec \"nuxt\"",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
     "heroku-postbuild": "npm run build"
   },
   "dependencies": {
+    "@nuxtjs/pwa": "^2.6.0",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.4.0",
-    "@nuxtjs/pwa": "^2.6.0"
+    "d3": "^5.9.2",
+    "dotenv": "^7.0.0",
+    "googleapis": "^27.0.0",
+    "nuxt": "^2.4.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.9",

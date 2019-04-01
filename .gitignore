@@ -84,3 +84,5 @@ dist
 sw.*
 
 .DS_Store
+
+google-credentials-heroku.json
